@@ -11,6 +11,8 @@ nmap -sV -sS 127.0.0.1 (all ports)
 ## msfvenom
 # Brute Force
 # Exploits
+## Apache Apisix 2.8
+(CVE-2022-24112)
 # Shell Upgrade
 ## Python
 python -c 'import pty; pty.spawn("/bin/bash")'
