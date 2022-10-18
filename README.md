@@ -18,6 +18,10 @@ gobuster dir -u 127.0.0.1 -w /usr/share/wordlists/dirbuster/directory-list-2.3-m
 (CVE-2022-24112)  
 {"error_msg":"404 Route Not Found"}  
 https://github.com/twseptian/cve-2022-24112
+## Ladon Framework
+(NO CVE)  
+WSGIServer 0.1 (Python 2.7.16)  
+https://www.exploit-db.com/exploits/43113  
 # Shell Upgrade
 ## Python
 python -c 'import pty; pty.spawn("/bin/bash")'
