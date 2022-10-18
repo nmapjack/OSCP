@@ -43,7 +43,7 @@ curl -T file.php -u 'username:password' http://target.url
 ## Wget (download)
 wget 127.0.0.1/file
 # File Permissions
-## Chmod
+## Chmod (make executable)
 chmod +x target.file
 # Privilege Escalation
 ## Crontab
