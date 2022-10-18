@@ -48,7 +48,7 @@ chmod +x target.file
 # Privilege Escalation
 ## Crontab
 cat /etc/crontab  
-
+PrivEsc Results:
 SHELL=/bin/sh  
 PATH=/dev/shm:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
