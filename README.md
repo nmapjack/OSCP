@@ -7,7 +7,7 @@ nmap -sV -sS 127.0.0.1 (all ports)
 nikto -h 127.0.0.1
 ## SMB
 ## Gobuster
-gobuster dir -u 127.0.0.1 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
+gobuster dir -e -w /usr/share/wordlists/dirb/common.txt -t 5 -u http://127.0.0.1 -q
 ## Linpeas
 ## Winpeas
 # Payloads
