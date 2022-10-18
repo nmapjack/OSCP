@@ -13,6 +13,7 @@ nmap -sV -sS 127.0.0.1 (all ports)
 # Exploits
 ## Apache Apisix 2.8
 (CVE-2022-24112)  
+{"error_msg":"404 Route Not Found"}  
 https://github.com/twseptian/cve-2022-24112
 # Shell Upgrade
 ## Python
