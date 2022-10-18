@@ -21,4 +21,7 @@ python -c 'import pty; pty.spawn("/bin/bash")'
 # Tool Transfer
 ## Python
 python3 -m http.server 8080
+# Privilege Escalation
+## Crontab
+cat /etc/crontab
 
