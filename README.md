@@ -19,11 +19,11 @@ hashcat -a 0 -m 1600 -w 2 --show hash.txt /usr/share/wordlists/rockyou.txt
 # Exploits
 ## Apache Apisix 2.8
 (CVE-2022-24112)  
-{"error_msg":"404 Route Not Found"}  
+Hint: {"error_msg":"404 Route Not Found"}  
 https://github.com/twseptian/cve-2022-24112
 ## Ladon Framework
 (NO CVE)  
-WSGIServer 0.1 (Python 2.7.16)  
+Hint: WSGIServer 0.1 (Python 2.7.16)  
 https://www.exploit-db.com/exploits/43113  
 https://www.youtube.com/watch?v=3XgGjEG0lLw  
 # Shell
