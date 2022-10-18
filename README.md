@@ -13,6 +13,9 @@ gobuster dir -e -w /usr/share/wordlists/dirb/common.txt -t 5 -u http://127.0.0.1
 # Payloads
 ## msfvenom
 # Brute Force
+# Cracking
+## Hashcat (https://hashcat.net/wiki/doku.php?id=example_hashes)
+hashcat -a 0 -m 1600 -w 2 --show hash.txt /usr/share/wordlists/rockyou.txt  
 # Exploits
 ## Apache Apisix 2.8
 (CVE-2022-24112)  
