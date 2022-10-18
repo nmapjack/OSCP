@@ -18,4 +18,7 @@ https://github.com/twseptian/cve-2022-24112
 # Shell Upgrade
 ## Python
 python -c 'import pty; pty.spawn("/bin/bash")'
+# Tool Transfer
+## Python
+python3 -m http.server 6969
 
