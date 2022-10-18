@@ -6,5 +6,10 @@ nmap -sV -sS 127.0.0.1 (all ports)
 ## SMB
 ## Dirbuster
 # Payloads
+## msfvenom
 # Brute Force
 # Exploits
+# Shell Upgrade
+## Python
+python -c 'import pty; pty.spawn("/bin/bash")'
+
