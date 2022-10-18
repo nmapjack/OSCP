@@ -7,7 +7,7 @@ nmap -sV -sS 127.0.0.1 (all ports)
 nikto -h 127.0.0.1
 ## SMB
 ## Gobuster
-gobuster dir -e -w /usr/share/wordlists/dirb/common.txt -t 5 -u http://127.0.0.1 -q
+gobuster dir -e -w /usr/share/wordlists/dirb/common.txt -t 5 -u http://target.url -q
 ## Linpeas
 ## Winpeas
 # Payloads
@@ -34,7 +34,7 @@ python -c 'import pty; pty.spawn("/bin/bash")'
 python3 -m http.server 8080
 # File Transfer
 ## Curl (upload)
-curl -T file.php -u 'username:password' http://127.0.0.1/
+curl -T file.php -u 'username:password' http://target.url
 ## Wget (download)
 wget http://127.0.0.1/file.php
 # Privilege Escalation
