@@ -47,8 +47,8 @@ wget 127.0.0.1/file
 chmod +x target.file
 # Privilege Escalation
 ## Crontab
-cat /etc/crontab  
-Results:  
+cat /etc/crontab   
+
 SHELL=/bin/sh  
 PATH=/dev/shm:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
