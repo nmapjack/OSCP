@@ -1,0 +1,3 @@
+NMAP
+all ports: nmap -sS -sV -p- 127.0.0.1
+specific ports: nmap -sS -sV -p x,x 127.0.0.1
