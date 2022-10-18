@@ -41,7 +41,7 @@ python3 -m http.server 8080
 ## Curl (upload)
 curl -T file.php -u 'username:password' http://target.url
 ## Wget (download)
-wget http://127.0.0.1/file.php
+wget 127.0.0.1/file
 # Privilege Escalation
 ## Crontab
 cat /etc/crontab
