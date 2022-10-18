@@ -20,5 +20,5 @@ https://github.com/twseptian/cve-2022-24112
 python -c 'import pty; pty.spawn("/bin/bash")'
 # Tool Transfer
 ## Python
-python3 -m http.server 6969
+python3 -m http.server 8080
 
