@@ -3,6 +3,8 @@ Offensive Security Certified Professional is an ethical hacking certification of
 # Enumeration
 ## NMAP
 nmap -sV -sS 127.0.0.1 (all ports)
+## Nikto
+nikto -h 127.0.0.1
 ## SMB
 ## Gobuster
 ## Linpeas
