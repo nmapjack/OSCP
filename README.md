@@ -2,7 +2,7 @@
 Offensive Security Certified Professional is an ethical hacking certification offered by Offensive Security that teaches penetration testing methodologies and the use of the tools included with the Kali Linux distribution.
 # Enumeration
 ## NMAP
-nmap -sV -sS 127.0.0.1 (all ports)
+nmap -sV -sC 127.0.0.1 (all ports)
 ## Nikto
 nikto -h 127.0.0.1
 ## SMB
