@@ -4,9 +4,9 @@
 
 * Kernel and distribution release details
 * System Information:
-  * [Hostname](linux-system.md)&#x20;
+  * [Hostname](linux-system.md)
   * Networking details:
-  * [Current IP](linux-network.md)
+  * [Current IP](linux-network.md#ip-architecture)
   * Default route details
   * DNS server information
 * User Information:

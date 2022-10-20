@@ -2,7 +2,7 @@
 
 ## Uname
 
-Kernel version of the linux OS:
+Kernel version of the linux OS
 
 ```
 uname -a
@@ -10,7 +10,7 @@ uname -a
 
 ## CPU Architecture
 
-CPU architecture of the Linux machine:
+CPU architecture of the Linux machine
 
 ```
 lscpu
