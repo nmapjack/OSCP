@@ -24,7 +24,7 @@
     * [Linux Network](enumeration/internal/linux-network.md)
     * [Linux Passwords](enumeration/internal/linux-passwords.md)
     * [Linux Tools](enumeration/internal/linux-tools.md)
-* [Exploits](exploits/README.md)
+* [Exploits](exploits.md)
   * [External](exploits/external/README.md)
     * [Foothold](exploits/external/foothold.md)
     * [Privilege Escalation](exploits/external/privilege-escalation.md)
