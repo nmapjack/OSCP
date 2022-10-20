@@ -4,7 +4,7 @@
 
 Git URL: [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
 
-Download command:
+Download:
 
 ```
 wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
@@ -14,7 +14,7 @@ wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
 
 Git URL: [https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
 
-Download command:
+Download:
 
 ```
 wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
@@ -24,7 +24,7 @@ wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 
 Git URL: [https://github.com/mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 
-Download command:
+Download:
 
 ```
 wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh
@@ -34,7 +34,7 @@ wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linu
 
 Git URL: [https://github.com/sleventyeleven/linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker)
 
-Download command:
+Download:
 
 ```
 wget https://raw.githubusercontent.com/sleventyeleven/linuxprivchecker/master/linuxprivchecker.py

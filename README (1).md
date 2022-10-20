@@ -4,4 +4,4 @@ Enumeration is defined as the process of extracting user names, machine names, n
 
 ## Tools used to enumerate running services
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
