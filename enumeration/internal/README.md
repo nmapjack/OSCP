@@ -4,13 +4,13 @@
 
 * Kernel and distribution release details
 * System Information:
-  * Hostname&#x20;
+  * [Hostname](linux-system.md)&#x20;
   * Networking details:
-  * Current IP
+  * [Current IP](linux-network.md)
   * Default route details
   * DNS server information
 * User Information:
-  * Current user details
+  * [Current user details](../../exploits/internal/privilege-escalation/linux-users.md)
   * Last logged on users
   * Shows users logged onto the host
   * List all users including uid/gid information
