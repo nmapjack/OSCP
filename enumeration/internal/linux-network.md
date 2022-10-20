@@ -2,7 +2,7 @@
 
 ## IP Architecture
 
-Lists the IP architecture of the current machine:
+Lists the IP architecture on the current machine:
 
 ```
 ifconfig
