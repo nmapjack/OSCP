@@ -42,4 +42,3 @@
 * [Commands](commands/README.md)
   * [Linux](commands/linux.md)
   * [Windows](commands/windows.md)
-* [Encryption](encryption.md)
