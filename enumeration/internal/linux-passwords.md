@@ -51,7 +51,7 @@ find / -name id_rsa 2> /dev/null
 
 ## VPN
 
-Lists content of VPN file:
+Lists contents of VPN file:
 
 ```
 cat $vpn.file
